@@ -32,7 +32,7 @@ function setup() {
 
   jungle = createSprite(400,100,400,20);
   jungle.addImage("jungle",jungleImage);
-  jungle.scale=0.3
+  jungle.scale=0.38 
   jungle.x = width /2;
 
   kangaroo = createSprite(50,200,20,50);
